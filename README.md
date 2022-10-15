@@ -6,4 +6,4 @@ With changes made to the Horiseon site, all links are now functioning properly. 
 Screenshots:![Horiseon 1](https://user-images.githubusercontent.com/113850230/195960019-75510320-631a-4aaa-b055-c0f76cbb47b7.PNG)
 ![Horiseon 2](https://user-images.githubusercontent.com/113850230/195960028-13196657-8f6f-49ac-86c1-2d65f0e1f6a8.PNG)
 
-Link: 
+Link: https://carter-schmitz.github.io/Challenge-1-Accessibility/
